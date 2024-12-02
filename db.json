@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "id": "dbcc",
+      "category": "Pc",
+      "name": "Dell",
+      "price": "6000"
+    }
+  ]
+}
